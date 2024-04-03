@@ -1,0 +1,48 @@
+/* Color variables */
+:root {
+    --clr-white: #ffffff;
+    --clr-background: #fafafa;
+    --clr-label-name: #7e8f99;
+    --clr-blue: #004e66;
+    --clr-dark-blue: #001f29;
+    --clr-light-orange: #ffa63a;
+    --clr-sky-blue: #ecf1f5;
+    --clr-gray200: #dce7ea;
+    --clr-gray500: #576e76;
+    --clr-gray100: #7e7e7e;
+    --clr-gray600: #f5f5f5;
+    --clr-gray700: #8e8e8e;
+    --clr-black100: #3D3D3D;
+    --clr-green100: #1aa26a;
+  }
+  
+  /* Font size variables */
+  /* Large heading font size */
+  :root {
+    --font-heading-xxl: 48px;
+    --font-heading2-xxl: 44px; /* (min-width: 1199.5px) */
+    --font-heading-xl: 42px; /* (min-width: 1199.5px) */
+    --font-heading-lg: 38px; /* (max-width: 1199.5px) and (min-width: 991.5px) */
+    --font-heading-md: 36px; /* (max-width: 991.5px) and (min-width: 767.5px) */
+    --font-heading-sm: 34px; /* (max-width: 767.5px) and (min-width: 575.5px) */
+    --font-heading-xs: 32px; /* (max-width: 575.5px) and (min-width: 200.5px) */
+  }
+  
+  /* Font for semi-large heading */
+  :root {
+    --font-semiheading-xl: 30px;
+    --font-semiheading-lg: 28px;
+    --font-semiheading-lg-sm: 26px;
+    --font-semiheading-md: 24px;
+    --font-semiheading-sm: 22px;
+    --font-semiheading-xs: 20px;
+  }
+  
+  /* Font for content */
+  :root {
+    --font-content-xl: 18px;
+    --font-content-lg: 16px;
+    --font-content-md: 14px;
+    --font-content-xs: 12px;
+  }
+  
